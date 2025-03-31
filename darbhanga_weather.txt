@@ -1,0 +1,15 @@
+Day, Date, Feel like, Temperature, Humidity, Wind direction and speed
+Tue 01, Sunny, 37°/19°, 1%, SW 9 mph
+Wed 02, Mostly Cloudy, 35°/22°, 0%, WSW 10 mph
+Thu 03, Cloudy, 35°/22°, 0%, W 11 mph
+Fri 04, Mostly Sunny, 36°/21°, 1%, W 13 mph
+Sat 05, Sunny, 37°/21°, 1%, W 11 mph
+Sun 06, Sunny, 37°/23°, 1%, SSE 7 mph
+Mon 07, Sunny, 37°/25°, 2%, ESE 13 mph
+Tue 08, Mostly Sunny, 38°/24°, 4%, E 13 mph
+Wed 09, Mostly Sunny, 37°/24°, 7%, E 10 mph
+Thu 10, Mostly Sunny, 36°/23°, 17%, E 13 mph
+Fri 11, Partly Cloudy, 35°/23°, 15%, E 13 mph
+Sat 12, Isolated T-Storms, 34°/23°, 32%, E 11 mph
+Sun 13, Partly Cloudy, 34°/23°, 24%, E 11 mph
+Mon 14, Partly Cloudy, 35°/24°, 16%, E 10 mph
