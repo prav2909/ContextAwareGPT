@@ -1,6 +1,6 @@
 # Simplified Retrieval Augmented Generation (RAG) Demonstration
 
-This demonstration illustrates the ease of implementing Retrieval Augmented Generation (RAG) using ChatGPT's built-in capabilities. It's based on: https://www.youtube.com/watch?v=P8tOjiYEFqU&ab_channel=DonWoodlock
+This demonstration illustrates the ease of implementing Retrieval Augmented Generation (RAG) using ChatGPT's built-in capabilities. It's based on: DonWoodlock's Videos
 
 We'll construct a minimal, or "micro," dataset to serve as the knowledge base for our Language Model (LLM). The core concept of RAG involves retrieving relevant information from this external dataset based on the user's query and incorporating it into the LLM's response. We will also visualize the similarity between the query and dataset embeddings using the dot product, highlighting how proximity in embedding space correlates with semantic relevance.
 
